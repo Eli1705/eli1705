@@ -9,6 +9,12 @@ Since then I tried to increase my knowledge and would describe my Skillset as fo
 - **PHP, MySQL**: Building simple backends with laravel and MySQL Databases
 - **Python**: Several years of intensive training
 - **Java**: Still learning...
+
+### Hobbies
+Apart from Programming I am very passionate about
+- playing the piano
+- playing Volleyball and football
+- Physics and Math
 <!--
 **Eli1705/eli1705** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
